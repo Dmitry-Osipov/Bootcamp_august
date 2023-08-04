@@ -396,3 +396,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/resources
+!**/src/test/
+.idea
+pom.xml
