@@ -402,3 +402,5 @@ target/
 !**/src/test/
 .idea
 pom.xml
+C#.sln
+.vscode
